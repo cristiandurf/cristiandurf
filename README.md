@@ -6,8 +6,10 @@ const cristiandurf = {
     code: [Java, Javascript, HTML, CSS],
     tools: [React, Spring],
 }
+```
 
 [![cristiandurf's gitHub stats](https://github-readme-stats.vercel.app/api?username=cristiandurf)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **cristiandurf/cristiandurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
