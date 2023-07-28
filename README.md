@@ -1,26 +1,21 @@
-### Hi, I´m Cristian  👨‍💻👨‍🏫
+### Hi, I´m CristianDurf 👋
 
-```js
-const cristiandurf = {
-    pronouns: "he" | "him",
-    code: [Java, Javascript, HTML, CSS],
-    tools: [React, Spring],
-}
-```
+![perfil_git](https://github.com/cristiandurf/cristiandurf/assets/102331667/5a78cc48-4234-4429-8242-e0734eb6e377)
 
-[![cristiandurf's gitHub stats](https://github-readme-stats.vercel.app/api?username=cristiandurf)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub followers](https://img.shields.io/github/followers/cristiandurf?style=social)](https://github.com/cristiandurf)
 
-<!--
-**cristiandurf/cristiandurf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me 
 
-Here are some ideas to get you started:
+- 💻 Developer full stack java and javascript
+- 🧑‍🏫 Teacher in university and college
+  
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/cristiandurf">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cristiandurf&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cristiandurf&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
